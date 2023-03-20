@@ -10,7 +10,7 @@ The decision to publish a scientific paper is made based on an evaluation of its
 
 ### The current system distorts scientific priorities.
 
-Science is incredibly competitive, resources are allocated on a short term basis, and the primary metric used to evaluate scientists is their publication record. As a consequence, there is an unavoidable pressure to select problems and design studies that can lead to results that are likely to be favourably evaluated and published in the short term. This is in opposition to the long term scientific value, a fact that appears to be widely acknowledged by working scientists (https://www.vox.com/2016/7/14/12016710/science-challeges-research-funding-peer-review-process).
+Science is incredibly competitive, resources are allocated on a short term basis, and the primary metric used to evaluate scientists is their publication record. As a consequence, there is an unavoidable pressure to select problems and design studies that can lead to results that are likely to be favourably evaluated and published in the short term. This is in opposition to the long term scientific value, a fact that appears to be [widely acknowledged by working scientists](https://www.vox.com/2016/7/14/12016710/science-challeges-research-funding-peer-review-process).
 
 ### The current system is a vicious cycle and stable equilibrium.
 
