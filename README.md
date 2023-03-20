@@ -1,2 +1,3 @@
-# publishing_blog
-Dan Goodman's blog on publishing
+# Dan Goodman's publishing blog
+
+Some miscellaneous thoughts jotted down here for posterity.
