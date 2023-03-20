@@ -4,3 +4,4 @@ description: "Some miscellaneous thoughts jotted down here for posterity."
 show_downloads: false
 github:
   is_project_page: false
+exclude: README.md
