@@ -2,6 +2,7 @@
 layout: post
 title: "A short argument for why the big publishers cannot be part of a publishing reform effort"
 date: 2023-03-06
+permalink: /why-publishers-cannot-be-part-of-reform/
 ---
 
 ### Science is stuck in a vicious cycle it is hard to escape from.
