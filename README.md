@@ -1,3 +1,3 @@
-# Dan Goodman's publishing blog
+# Zavarka
 
-Some miscellaneous thoughts jotted down here for posterity.
+Thoughts on how and what we want in scholarly publishing reform.
