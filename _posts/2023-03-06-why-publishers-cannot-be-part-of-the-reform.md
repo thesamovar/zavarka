@@ -31,3 +31,8 @@ The success of these reforms would untie the evaluation of the quality of scient
 ### Divorcing from the big publishers will not be enough.
 
 Journal prestige is the cement of the current negative stable equilibrium, but eliminating that will not guarantee a globally better system. We need systems for publishing and evaluating science that is diverse and under the control of researchers. This is what we intend to do with [Neuromatch Open Publishing](https://nmop.io/).
+
+## Related
+
+* [Twitter thread](https://twitter.com/neuralreckoning/status/1632793894227173376)
+* [Mastodon thread](https://neuromatch.social/@neuralreckoning/109977458632197766)
