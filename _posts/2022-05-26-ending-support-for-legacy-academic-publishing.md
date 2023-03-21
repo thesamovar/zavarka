@@ -2,7 +2,7 @@
 layout: post
 title: "Ending support for legacy academic publishing"
 date: 2022-05-26
-permalink: /ending-support-for-legacy-publishers/
+permalink: /ending-support-for-legacy-academic-publishing/
 ---
 
 I profoundly disagree with the current system of academic publishing, and so I have decided that I will no longer give any voluntary labour to support it. I believe it no longer serves science well for us to maintain this unhealthy system. Instead, I will spend that time building alternatives.
