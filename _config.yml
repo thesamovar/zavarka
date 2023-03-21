@@ -5,4 +5,3 @@ show_downloads: false
 github:
   is_project_page: false
 exclude: README.md
-baseurl: https://thesamovar.github.io/zavarka
