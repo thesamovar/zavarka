@@ -5,4 +5,4 @@ date: 2023-03-21
 permalink: /future-of-peer-review/
 ---
 
-I've [written before](ending-support-for-legacy-publishers).
+I've [written before](./ending-support-for-legacy-publishers).
