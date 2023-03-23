@@ -18,3 +18,8 @@ There needs to be a way to **integrate all the different sources of feedback** s
 None of these are particularly new ideas. The new model of [eLife](https://elifesciences.org/) is about creating structured post-publication reviews with standardised vocabulary, and their nascent [sciety](https://sciety.org/) platform is an attempt to integrate all the different sources of feedback. [hypothes.is](https://web.hypothes.is/) is a great first step towards improving the interface for review (although their recent move to for-profit status is worrying). The key will be to organise a way to put them all together and make it frictionless and pleasant to engage with it. It will require a revolutionary change because to make all these things work together it all has to be open and free, and [legacy publishers will fight that](https://thesamovar.github.io/zavarka/why-publishers-cannot-be-part-of-reform/).
 
 Finally, with [Neuromatch Open Publishing](https://nmop.io/), we are working towards building a non-profit infrastructure to enable us to collectively do all these experiments and more.
+
+## Related
+
+* [Mastodon thread](https://neuromatch.social/@neuralreckoning/110073629878303140)
+* [Twitter thread](https://twitter.com/neuralreckoning/status/1638951816044879887)
