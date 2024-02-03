@@ -2,7 +2,7 @@
 layout: post
 title: "Journals as recommendation systems"
 date: 2024-02-03
-permalink: /journas-as-recommendation-systems/
+permalink: /journals-as-recommendation-systems/
 ---
 
 This article is a response to Mark Hanson's [Do we really need journals?](https://mahansonresearch.weebly.com/blog/do-we-really-need-journals). If I've understood correctly, Mark argues that social media isn't a good replacement for journals because it has its own problematic biases built in. I agree that social media isn't sufficient, but I don't think this in any way makes the argument for journals.
